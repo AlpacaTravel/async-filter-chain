@@ -1,5 +1,5 @@
 {
-  "name": "filter-chain",
+  "name": "sync-filter-chain",
   "version": "0.1.0",
   "description": "Asynchronous filters applied to req/response",
   "main": "index.js",
