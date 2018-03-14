@@ -23,7 +23,10 @@
     "url": "https://github.com/AlpacaTravel/async-filter-chain/issues"
   },
   "homepage": "https://github.com/AlpacaTravel/async-filter-chain#readme",
-  "dependencies": {},
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0"
