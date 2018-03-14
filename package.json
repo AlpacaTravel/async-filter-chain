@@ -1,5 +1,5 @@
 {
-  "name": "sync-filter-chain",
+  "name": "async-filter-chain",
   "version": "0.1.0",
   "description": "Asynchronous filters applied to req/response",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "compile": "babel -d dist/ src/",
     "prepublish": "npm run compile"
   },
-  "repository": "https://github.com/AlpacaTravel/filter-chain.git",
+  "repository": "https://github.com/AlpacaTravel/async-filter-chain.git",
   "keywords": [
     "filter",
     "chain",
@@ -20,9 +20,9 @@
   "author": "Cam Manderson (cam@alpaca.travel)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlpacaTravel/filter-chain/issues"
+    "url": "https://github.com/AlpacaTravel/async-filter-chain/issues"
   },
-  "homepage": "https://github.com/AlpacaTravel/filter-chain#readme",
+  "homepage": "https://github.com/AlpacaTravel/async-filter-chain#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
